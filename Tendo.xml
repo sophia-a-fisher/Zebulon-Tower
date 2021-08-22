@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:c067f01322e6d6b487ab66785d4fac38:1d16368424cb36e671f2e7a0a9a88a0c:bf0c35350e8d00601ab0c6746db519d9$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+pX => x pos of the pivot point (relative to sprite width)
+pY => y pos of the pivot point (relative to sprite height)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+with polygon mode enabled:
+vertices   => points in sprite coordinate system (x0,y0,x1,y1,x2,y2, ...)
+verticesUV => points in sheet coordinate system (x0,y0,x1,y1,x2,y2, ...)
+triangles  => sprite triangulation, 3 vertex indices per triangle
+-->
+<TextureAtlas imagePath="Tendo.png" width="2044" height="1702">
+    <sprite n="Bush_1_1$85$.png" x="1355" y="148" w="120" h="190" pX="0.5" pY="0.5"/>
+    <sprite n="Bush_1_1$85$_Shadow.png" x="1653" y="0" w="125" h="140" pX="0.5" pY="0.5"/>
+    <sprite n="Bush_1_2$85$.png" x="108" y="629" w="220" h="190" pX="0.5" pY="0.5"/>
+    <sprite n="Bush_1_2$85$_Shadow.png" x="0" y="346" w="225" h="140" pX="0.5" pY="0.5"/>
+    <sprite n="Bush_1_3$85$.png" x="1532" y="629" w="220" h="265" pX="0.5" pY="0.5"/>
+    <sprite n="Bush_1_4$165$.png" x="932" y="346" w="120" h="270" pX="0.5" pY="0.5"/>
+    <sprite n="Bush_1_4$165$_Shadow.png" x="1786" y="0" w="125" h="140" pX="0.5" pY="0.5"/>
+    <sprite n="Bush_1_5$75$.png" x="1020" y="629" w="120" h="355" pX="0.5" pY="0.5"/>
+    <sprite n="Bush_1_6$475$.png" x="456" y="1037" w="120" h="580" pX="0.5" pY="0.5"/>
+    <sprite n="Bush_1_6$475$_Shadow.png" x="1919" y="0" w="125" h="140" pX="0.5" pY="0.5"/>
+    <sprite n="Bush_1_7$475$.png" x="968" y="1037" w="120" h="665" pX="0.5" pY="0.5"/>
+    <sprite n="Bush_2_1$85$.png" x="1483" y="148" w="120" h="190" pX="0.5" pY="0.5"/>
+    <sprite n="Bush_2_1$85$_Shadow.png" x="0" y="148" w="125" h="140" pX="0.5" pY="0.5"/>
+    <sprite n="Bush_2_2$85$.png" x="336" y="629" w="220" h="190" pX="0.5" pY="0.5"/>
+    <sprite n="Bush_2_2$85$_Shadow.png" x="233" y="346" w="225" h="140" pX="0.5" pY="0.5"/>
+    <sprite n="Bush_2_3$85$.png" x="1760" y="629" w="220" h="265" pX="0.5" pY="0.5"/>
+    <sprite n="Bush_2_4$165$.png" x="1060" y="346" w="120" h="270" pX="0.5" pY="0.5"/>
+    <sprite n="Bush_2_4$165$_Shadow.png" x="133" y="148" w="125" h="140" pX="0.5" pY="0.5"/>
+    <sprite n="Bush_2_5$165$.png" x="1148" y="629" w="120" h="355" pX="0.5" pY="0.5"/>
+    <sprite n="Bush_2_5$165$_Shadow.png" x="1444" y="346" w="130" h="275" pX="0.5" pY="0.5"/>
+    <sprite n="Bush_2_6$475$.png" x="584" y="1037" w="120" h="580" pX="0.5" pY="0.5"/>
+    <sprite n="Bush_2_6$475$_Shadow.png" x="266" y="148" w="125" h="140" pX="0.5" pY="0.5"/>
+    <sprite n="Bush_2_7$475$.png" x="1096" y="1037" w="120" h="665" pX="0.5" pY="0.5"/>
+    <sprite n="Bush_2_7$475$_Shadow.png" x="1582" y="346" w="130" h="275" pX="0.5" pY="0.5"/>
+    <sprite n="Bush_3_1$85$.png" x="1611" y="148" w="120" h="190" pX="0.5" pY="0.5"/>
+    <sprite n="Bush_3_1$85$_Shadow.png" x="399" y="148" w="125" h="140" pX="0.5" pY="0.5"/>
+    <sprite n="Bush_3_2$85$.png" x="564" y="629" w="220" h="190" pX="0.5" pY="0.5"/>
+    <sprite n="Bush_3_2$85$_Shadow.png" x="466" y="346" w="225" h="140" pX="0.5" pY="0.5"/>
+    <sprite n="Bush_3_3$85$.png" x="0" y="1037" w="220" h="265" pX="0.5" pY="0.5"/>
+    <sprite n="Bush_3_4$165$.png" x="1188" y="346" w="120" h="270" pX="0.5" pY="0.5"/>
+    <sprite n="Bush_3_4$165$_Shadow.png" x="532" y="148" w="125" h="140" pX="0.5" pY="0.5"/>
+    <sprite n="Bush_3_5$165$.png" x="1276" y="629" w="120" h="355" pX="0.5" pY="0.5"/>
+    <sprite n="Bush_3_5$165$_Shadow.png" x="1720" y="346" w="130" h="275" pX="0.5" pY="0.5"/>
+    <sprite n="Bush_3_6$475$.png" x="712" y="1037" w="120" h="580" pX="0.5" pY="0.5"/>
+    <sprite n="Bush_3_6$475$_Shadow.png" x="665" y="148" w="125" h="140" pX="0.5" pY="0.5"/>
+    <sprite n="Bush_3_7$475$.png" x="1224" y="1037" w="120" h="665" pX="0.5" pY="0.5"/>
+    <sprite n="Bush_3_7$475$_Shadow.png" x="1858" y="346" w="130" h="275" pX="0.5" pY="0.5"/>
+    <sprite n="Bush_4_1$85$.png" x="1739" y="148" w="120" h="190" pX="0.5" pY="0.5"/>
+    <sprite n="Bush_4_1$85$_Shadow.png" x="798" y="148" w="125" h="140" pX="0.5" pY="0.5"/>
+    <sprite n="Bush_4_2$85$.png" x="792" y="629" w="220" h="190" pX="0.5" pY="0.5"/>
+    <sprite n="Bush_4_2$85$_Shadow.png" x="699" y="346" w="225" h="140" pX="0.5" pY="0.5"/>
+    <sprite n="Bush_4_3$85$.png" x="228" y="1037" w="220" h="265" pX="0.5" pY="0.5"/>
+    <sprite n="Bush_4_4$165$.png" x="1316" y="346" w="120" h="270" pX="0.5" pY="0.5"/>
+    <sprite n="Bush_4_4$165$_Shadow.png" x="931" y="148" w="125" h="140" pX="0.5" pY="0.5"/>
+    <sprite n="Bush_4_5$165$.png" x="1404" y="629" w="120" h="355" pX="0.5" pY="0.5"/>
+    <sprite n="Bush_4_6$475$.png" x="840" y="1037" w="120" h="580" pX="0.5" pY="0.5"/>
+    <sprite n="Bush_4_6$475$_Shadow.png" x="1064" y="148" w="125" h="140" pX="0.5" pY="0.5"/>
+    <sprite n="Bush_4_7$475$.png" x="1352" y="1037" w="120" h="665" pX="0.5" pY="0.5"/>
+    <sprite n="House_1.png" x="1480" y="1037" w="465" h="585" pX="0.5" pY="0.5"/>
+    <sprite n="LampPost_1.png" x="0" y="629" w="100" h="400" pX="0.5" pY="0.5"/>
+    <sprite n="PottedPlant_1_1$35$.png" x="724" y="0" w="90" h="125" pX="0.5" pY="0.5"/>
+    <sprite n="PottedPlant_1_1$35$_Shadow.png" x="0" y="0" w="80" h="90" pX="0.5" pY="0.5"/>
+    <sprite n="PottedPlant_1_2$35$.png" x="1377" y="0" w="125" h="125" pX="0.5" pY="0.5"/>
+    <sprite n="PottedPlant_1_2$35$_Shadow.png" x="88" y="0" w="80" h="90" pX="0.5" pY="0.5"/>
+    <sprite n="PottedPlant_1_3$35$.png" x="822" y="0" w="100" h="125" pX="0.5" pY="0.5"/>
+    <sprite n="PottedPlant_1_3$35$_Shadow.png" x="176" y="0" w="80" h="90" pX="0.5" pY="0.5"/>
+    <sprite n="PottedPlant_1_4$35$.png" x="1510" y="0" w="135" h="125" pX="0.5" pY="0.5"/>
+    <sprite n="PottedPlant_1_4$35$_Shadow.png" x="616" y="0" w="100" h="90" pX="0.5" pY="0.5"/>
+    <sprite n="PottedPlant_1_5$35$.png" x="1867" y="148" w="155" h="180" pX="0.5" pY="0.5"/>
+    <sprite n="PottedPlant_1_5$35$_Shadow.png" x="1197" y="148" w="150" h="140" pX="0.5" pY="0.5"/>
+    <sprite n="PottedPlant_1_6$35$.png" x="930" y="0" w="100" h="125" pX="0.5" pY="0.5"/>
+    <sprite n="PottedPlant_1_6$35$_Shadow.png" x="264" y="0" w="80" h="90" pX="0.5" pY="0.5"/>
+    <sprite n="PottedPlant_1_7$35$.png" x="1038" y="0" w="105" h="130" pX="0.5" pY="0.5"/>
+    <sprite n="PottedPlant_1_7$35$_Shadow.png" x="352" y="0" w="80" h="90" pX="0.5" pY="0.5"/>
+    <sprite n="PottedPlant_1_8$35$.png" x="1151" y="0" w="105" h="130" pX="0.5" pY="0.5"/>
+    <sprite n="PottedPlant_1_8$35$_Shadow.png" x="440" y="0" w="80" h="90" pX="0.5" pY="0.5"/>
+    <sprite n="PottedPlant_1_9$35$.png" x="1264" y="0" w="105" h="130" pX="0.5" pY="0.5"/>
+    <sprite n="PottedPlant_1_9$35$_Shadow.png" x="528" y="0" w="80" h="90" pX="0.5" pY="0.5"/>
+</TextureAtlas>
